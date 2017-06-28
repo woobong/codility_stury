@@ -5,7 +5,7 @@ import org.junit.Test;
 import java.util.Comparator;
 import java.util.stream.Stream;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 /**
  * Created by wb.heo on 2017-06-01.

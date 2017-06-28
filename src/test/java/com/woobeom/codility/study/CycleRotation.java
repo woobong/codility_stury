@@ -2,6 +2,8 @@ package com.woobeom.codility.study;
 
 import org.junit.Test;
 
+import static org.junit.Assert.assertArrayEquals;
+
 /**
  * Created by wb.heo on 2017-06-01.
  */
